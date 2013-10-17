@@ -1,5 +1,5 @@
-Android Bootstrap
-=================
+Android Boilerplate
+===================
 
 Bootstrap your database backed android project with a simple json manifest!
 
