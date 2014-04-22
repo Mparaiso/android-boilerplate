@@ -9,9 +9,7 @@ license : Generated code is MIT licensed.
 
 Check the live website : http://android-bootstrap.herokuapp.com/
 
-Check a manifest example : https://gist.github.com/Mparaiso/7012621
-
-
+Check a manifest example : https://gist.github.com/Mparaiso/701262
 
 ###Roadmap
 
@@ -25,3 +23,4 @@ Check a manifest example : https://gist.github.com/Mparaiso/7012621
 - [] Unit test generation
 - [] Ormlite support
 - [] Documentation
+
